@@ -1,0 +1,31 @@
+PRIVACY POLICY FOR CAT PLAYGROUND ON QUEST 2, QUEST PRO, QUEST 3 AND FUTURE DEVICES
+Cat Playground is a game developed by Cat Playground Studios for the Meta Quest platform. We prioritize your privacy and are committed to complying with all applicable privacy regulations, including the European Union's General Data Protection Regulation (GDPR). The game is designed for an online experience, and internet connection is required for gameplay. Cat Playground does collect personal information, data, and game statistics. We will transmit some data to Playfab and Photon, so that every ingame feature works.
+
+COMMITMENT TO CONFIDENTIALITY
+Cat Playground Studios is committed to safeguarding your privacy while you use Cat Playground on the Meta Quest platform. Below are the key points of our privacy policy:
+
+Confidential Information
+
+"Confidential Information" refers to any data or information exchanged between Cat Playground Studios and the user in any form. We guarantee that personal data will be collected by Cat Playground, Playfab and Photon.
+Ownership and Use of Data
+
+Any information related to your use of the game will not remain entirely private. Two third-party providers will have access to information about your gameplay. These third-party providers are Playfab and Photon.
+Duration of the Agreement
+
+This privacy agreement is effective from the moment you download and install Cat Playground. The terms of this agreement will remain in effect for as long as you use the game, and since data is collected, your privacy is always maintained.
+Governing Law and Jurisdiction
+
+This privacy policy is governed by the laws applicable in your country of residence, and any disputes related to this policy will be handled under the relevant legal jurisdictions.
+USER RIGHTS & DATA PROTECTION
+As Cat Playground does collect, store, and process any personal data, you don't maintain full control over your information. There are user rights to exercise in relation to personal data, as we do request and handle such information. User data is collected so that users can use ingame currencies, purchase items with these currencies, also so users can give themselves an username, and so that we can moderate users and make sure everyone has a great experience inside of Cat Playground.
+
+DATA TRANSMISSION
+There is data transmission involved in playing Cat Playground. The game is fully online and requires and requests an internet connection. As a result, data, including personal or gameplay-related information, is transmitted to us, Playfab and Photon. This data can be deleted by asking the owner of the game, also known as Nakkikastike to delete your data. If you want your data deleted, you have to give Nakkikastike your PlayfabID, which is shown ingame.
+
+HOW WE PROTECT YOUR PRIVACY
+Cat Playground Studios is dedicated to ensuring that your privacy is respected throughout your experience with Cat Playground. Specifically, we guarantee that:
+
+Cat Playground is an online game.
+Data, including personal or statistical information, is collected.
+Personal information is shared or communicated with two third parties, Playfab and Photon, because without them the game would be unplayable.
+The game does log and store any gameplay statistics or personal details.
